@@ -1,6 +1,6 @@
-### Starter for webpack
+## Starter for webpack
 
-#### How to run
+### How to run
 
 Copy files
 ```
