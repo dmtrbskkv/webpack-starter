@@ -17,7 +17,7 @@ Start
 npm start
 ```
 
-Hot to Build
+### Hot to Build
 ```
 npm run build
 ```
